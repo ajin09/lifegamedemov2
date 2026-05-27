@@ -1,0 +1,7 @@
+{
+  "widgetSpec": {
+    "id": "p5-collision-sandbox",
+    "height": "700px",
+    "prompt": "Objective: Demonstrate AABB collision detection between a player rectangle and moving item circles in p5.js.\nData State: initialValues: none.\nStrategy: Standard Layout.\nLibraries: Canvas API (p5.js style).\nInputs:\n- Player Y Position (Slider)\n- Item X Position (Slider)\nBehavior: Show a player rectangle on the left and an item circle on the right. User can move the player vertically and the item horizontally using sliders. Highlight the intersecting area in red when the bounding boxes overlap to show a 'hit'. Display text 'COLLISION!' when intersecting."
+  }
+}
